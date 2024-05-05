@@ -1,0 +1,13 @@
+You have received an order at - 2023-12-11 14:16:49
+You have received an order at - 2023-12-11 14:17:05
+You have accepted an order at - 2023-12-11 15:48:50
+You have accepted an order at - 2023-12-11 15:49:12
+You have received an order at - 2023-12-11 15:49:38
+Your revenue has been added for RM14.30 at - 2023-12-11 15:50:32
+Your revenue has been added for RM14.3 at - 2023-12-11 15:50:34
+You have received an order at - 2023-12-11 15:54:46
+You have accepted an order at - 2023-12-11 15:54:58
+Your revenue has been added for RM14.30 at - 2023-12-11 15:55:02
+You have received an order at - 2023-12-15 02:52:05
+You have accepted an order at - 2023-12-15 02:55:40
+Your revenue has been added for RM25.6 at - 2023-12-15 02:55:49
